@@ -7,10 +7,6 @@ A UNI é uma empresa brasileira que fornece um software como serviço (SaaS) de 
 
 A plataforma da UNI permite que os corretores gerenciem todos os aspectos do processo de vendas, desde a geração de leads até a assinatura do contrato, por meio de uma plataforma online intuitiva e fácil de usar. Além disso, a UNI oferece recursos avançados de análise de dados, que permitem que os corretores identifiquem tendências e oportunidades no mercado de planos de saúde, e personalizem suas estratégias de vendas de acordo com as necessidades dos clientes.
 
-## Fundadores
-
-A UNI foi fundada em 2021 por Rodrigo Almeida, que viu o potencial do produto e convidou profissionais qualificados para compor a equipe de fundadores, incluindo Antonio Folha como CMO, Laura Tavares como COO e Ronisson Cabral como CTO.
-
 ## Localização
 
 A empresa tem sede no Brasil, mas planeja expandir sua presença internacionalmente no futuro.
@@ -38,10 +34,6 @@ UNI is a Brazilian company that provides a software-as-a-service (SaaS) platform
 ## Features
 
 The UNI platform allows brokers to manage all aspects of the sales process, from lead generation to contract signing, through an intuitive and easy-to-use online platform. In addition, UNI offers advanced data analysis features that enable brokers to identify trends and opportunities in the health insurance market and customize their sales strategies according to the needs of clients.
-
-## Founders
-
-UNI was founded in 2021 by Rodrigo Almeida, who saw the potential of the product and invited qualified professionals to join the team of founders, including Antonio Folha as CMO, Laura Tavares as COO, and Ronisson Cabral as CTO.
 
 ## Location
 
